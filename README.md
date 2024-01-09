@@ -6,12 +6,6 @@ This is a PowerPoint presentation deck for data pros. Feel free to use it anytim
 This is the ultimate PowerPoint presentation deck template for any data pro
 
 
-
----
-
-
-
-
 The way you present your analysis often has a greater impact on your career than doing the analysis itself. 
 
 
