@@ -19,10 +19,10 @@ Persuasive presenting is your ticket to the top.
 
 
 Presenting effectively helps you
-↳ get buy-in for your ideas
-↳ be perceived as a leader
-↳ foster trust and credibility
-↳ drive action and results
+1. get buy-in for your ideas
+2. be perceived as a leader
+3. foster trust and credibility
+4. drive action and results
 
 
 The key to a compelling presentation lies in understanding your audience and tailoring your content to respect their time, cater to their technical understanding, and align with their interests and goals.
