@@ -45,5 +45,3 @@ I’ve put together a PowerPoint presentation template to help you hit on all of
 
 
 Let me know what you think of it, and share any tips you that might have improved your presentations.
-
-![image](https://github.com/mo-abulyusr/PowerPoint-Presentation-Deck-Template-/assets/152322450/22309ee2-8c69-4ea4-862e-6c1460ea7694)
